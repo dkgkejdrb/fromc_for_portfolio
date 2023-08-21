@@ -41,6 +41,8 @@
 - react-router: SPA(Single Page Application) 라우팅 관리
 - react-redux: 전역 상태 관리
 - react-calendar: 도입 문의 시, date input 노출
+- react-daum-post: 도입 문의 시, 학교명/기관명 주소 검색
+- react-scroll: 스크롤 관리
 
 ### 백엔드 통신:
 
